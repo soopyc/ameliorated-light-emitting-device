@@ -38,17 +38,17 @@ params:
   down: "#e60000"
   systems: []
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#0a0c0f"
+  brand: "#7ad0ff"
   enableLastMod: true
   headerTextColor: white
-  logo: logo.png
+  logo: /img/miku_dispair.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   customTabs: []
-  alwaysKeepBrandColor: true
+  alwaysKeepBrandColor: false
   disableComplexCalculations: false
   useLogo: true
-  disrupted: "#cc4400"
+  disrupted: "#e37100"
   notice: "#24478f"
   incidentHistoryFormat: yearly
   disableIncidentHistory: false
@@ -60,7 +60,10 @@ params:
       closed: true
     - name: Uncategorized
       untitled: true
-  description: We continuously monitor the status of our services and if there are
-    any interruptions, a note will be posted here.
+  description: >-
+    Updated by human(s), for humans.
+
+
+    For latest and juicy raw uptime status, please visit <a href="https://miku.soopy.moe">miku.soopy.moe</a>.
   enableCustomHTML: false
   useLargeHeaderDesign: false
